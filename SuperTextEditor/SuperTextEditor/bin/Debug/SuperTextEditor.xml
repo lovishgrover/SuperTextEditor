@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SuperTextEditor
+</name>
+</assembly>
+<members>
+<member name="T:SuperTextEditor.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SuperTextEditor.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SuperTextEditor.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuHelpAbout_Click(System.Object,System.EventArgs)">
+ <summary>
+ Gives the information about the application
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuFileNew_Click(System.Object,System.EventArgs)">
+ <summary>
+ For creating a new file in the text editor. Clear the screen and reset all the variables to default 
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuFileOpen_Click(System.Object,System.EventArgs)">
+ <summary>
+ To load a file to the text editor box. Using Read To End function to load the data of file
+ some stream objects to load the path of the file and to read that path.  
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuFileSave_Click(System.Object,System.EventArgs)">
+ <summary>
+ To save the file, if file path already exists overrites the file 
+ if not creates a new path like the save as.
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuFileSaveAs_Click(System.Object,System.EventArgs)">
+ <summary>
+ To create a new file with new or existing data. Creates a new file path for the file saving
+ object file stream used to access the file path 
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuFileExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ To close the editor
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuEditCopy_Click(System.Object,System.EventArgs)">
+ <summary>
+ To create a copy of the data existing in the text editor.
+ Copies the selected text into the clipboard and then make a copy of that.
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuEditCut_Click(System.Object,System.EventArgs)">
+ <summary>
+ To remove the selected text from the text editor and puts that text into 
+ set text method
+ </summary>
+</member>
+<member name="M:SuperTextEditor.frmEditor.mnuEditPaste_Click(System.Object,System.EventArgs)">
+ <summary>
+ Insert the data in the text editor. Take data from the clipboard and insert where selected
+ </summary>
+</member>
+</members>
+</doc>

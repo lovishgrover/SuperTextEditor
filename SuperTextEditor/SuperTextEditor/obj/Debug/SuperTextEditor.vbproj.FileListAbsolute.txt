@@ -1,0 +1,11 @@
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.vbprojAssemblyReference.cache
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.Resources.resources
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.frmEditor.resources
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.vbproj.GenerateResource.cache
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\bin\Debug\SuperTextEditor.exe.config
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\bin\Debug\SuperTextEditor.exe
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\bin\Debug\SuperTextEditor.pdb
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\bin\Debug\SuperTextEditor.xml
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.exe
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.xml
+C:\Users\Lovish Grover\source\repos\SuperTextEditor\SuperTextEditor\obj\Debug\SuperTextEditor.pdb
